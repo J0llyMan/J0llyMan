@@ -1,4 +1,4 @@
-# 👋 Hi, I'm J0llyMan (Andrew Myint)
+# 👋 Hi, I'm J0llyMan
 
 I'm an **Accounting & Finance graduate pivoting into IT and Cybersecurity**.  
 Currently, I’m working toward my **CompTIA A+, Network+, and Security+ certifications**, building hands-on labs, and documenting my learning process along the way.  
@@ -57,7 +57,7 @@ With a background in **Accounting and Finance**, I bring analytical thinking, ri
 ---
 
 ## 🌐 Connect With Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/andrew-myint-cu/)  
+- 💼 [LinkedIn] 
 - 🔗 [TryHackMe Profile](https://tryhackme.com/p/J0llyMan)  
 - 💻 [GitHub](https://github.com/J0llyMan)
 
