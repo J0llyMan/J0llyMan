@@ -1,4 +1,4 @@
-# 👋 Hi, I'm J0ller
+# 👋 Hi, I'm WynBreaker
 
 I'm an **Accounting & Finance graduate pivoting into IT and Cybersecurity**.  
 Currently, I’m working toward my **CompTIA A+, Network+, and Security+ certifications**, building hands-on labs, and documenting my learning process along the way.  
